@@ -27,3 +27,7 @@ sudo ufw enable -y
 sudo ufw default deny
 
 sudo ufw allow 8080
+
+sudo apt-get install npm -y
+
+# Fingers crossed
