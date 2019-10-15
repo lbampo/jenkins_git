@@ -30,6 +30,6 @@ sudo ufw allow 8080
 
 sudo apt-get install npm -y
 
-sudo get-apt install ngrok
+sudo get-apt install ngrok-client
 
 # Fingers crossed
